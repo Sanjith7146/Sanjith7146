@@ -29,13 +29,13 @@
 
 ## Projects
 
-| iOS Apps | Python | /*[Personal Website](https://github.com/Sanjith7146/Sanjith7146.github.io) |*/
+| iOS Apps | Python | /*[Personal Website](https://github.com/Sanjith7146/Sanjith7146.github.io)*/
 | :--- | :--- | :--- | :--- |
-| - [Lateiva](https://github.com/Sanjith7146/Lateiva)<br />- [Emergency Aid](https://github.com/Sanjith7146/Emergency_Aid)<br />- [Quiz App](https://github.com/Sanjith7146/Quiz_App)<br />- [Jokes](https://github.com/Sanjith7146/Jokes) | - [Unbored](https://github.com/Sanjith7146/Random-Project)<br />- [Shiritori Word Game](https://github.com/Sanjith7146/-Shiritori-word-game)<br />- [Singapore/India Flag](https://github.com/Sanjith7146/SG-IND-FLAG)<br /> | The Source Code for my [Personal Website](sanjith7146.github.io) |
+| - [Lateiva](https://github.com/Sanjith7146/Lateiva)<br />- [Emergency Aid](https://github.com/Sanjith7146/Emergency_Aid)<br />- [Quiz App](https://github.com/Sanjith7146/Quiz_App)<br />- [Jokes](https://github.com/Sanjith7146/Jokes) | - [Unbored](https://github.com/Sanjith7146/Random-Project)<br />- [Shiritori Word Game](https://github.com/Sanjith7146/-Shiritori-word-game)<br />- [Singapore/India Flag](https://github.com/Sanjith7146/SG-IND-FLAG)<br /> |/* The Source Code for my [Personal Website](sanjith7146.github.io)*/ |
 
 <br />
 
 ## GitHub Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Sanjith7146&theme=github_dark&title_color=fff&text_color=fff&count_private=true&show_icons=false&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjith7146&layout=compact&theme=github_dar&title_color=fff&text_color=fff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjith7146&layout=compact&theme=github_dark&title_color=fff&text_color=fff)
