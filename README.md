@@ -1,4 +1,4 @@
-![Sanjith](https://socialify.git.ci/Sanjith7146/Sanjith/image?description=1&descriptionEditable=A%20Student%2C%20Photographer%2C%20Designer%2C%20Coder&font=Rokkitt&logo=https%3A%2F%2Fcdn.glitch.me%2F54a9f616-088c-4c9c-b58e-d6249b0c3b0d%2FCleanShot_2021-12-09_at_21.47.52_2x-removebg-preview.png%3Fv%3D1639627415359&name=1&pattern=Circuit%20Board&theme=Dark) 
+![Sanjith](https://socialify.git.ci/Sanjith7146/Sanjith/image?description=1&descriptionEditable=A%20Student%2C%20Photographer%2C%20Designer%2C%20Coder&font=Rokkitt&logo=https%3A%2F%2Fcdn.glitch.me%2F54a9f616-088c-4c9c-b58e-d6249b0c3b0d%2FCleanShot_2021-12-09_at_21.47.52_2x-removebg-preview%2520copy_auto_x2_ccexpress_digital_art_x4_colored_toned.png%3Fv%3D1640089247166&name=1&pattern=Circuit%20Board&theme=Dark) 
 
 ## Languages
 <p>
