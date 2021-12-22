@@ -38,4 +38,4 @@
 ## GitHub Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Sanjith7146&theme=github_dark&title_color=fff&text_color=fff&count_private=true&show_icons=false&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjith7146&theme=github_dark&title_color=fff&text_color=fff)
+![Top Languages](https://github-readme-stats.vercel.app/api/all-langs/?username=Sanjith7146&theme=github_dark&title_color=fff&text_color=fff)
