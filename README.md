@@ -29,9 +29,9 @@
 
 ## Projects
 
-| iOS Apps | Python
-| :--- | :--- |
-| - [Lateiva](https://github.com/Sanjith7146/Lateiva)<br />- [Emergency Aid](https://github.com/Sanjith7146/Emergency_Aid)<br />- [Quiz App](https://github.com/Sanjith7146/Quiz_App)<br />- [Jokes](https://github.com/Sanjith7146/Jokes) | - [Unbored](https://github.com/Sanjith7146/Random-Project)<br />- [Shiritori Word Game](https://github.com/Sanjith7146/-Shiritori-word-game)<br />- [Singapore/India Flag](https://github.com/Sanjith7146/SG-IND-FLAG)<br /> |
+| iOS Apps | Python | [Personal Website](https://github.com/Sanjith7146/Personal_Website)
+| :--- | :--- | :--- |
+| - [Lateiva](https://github.com/Sanjith7146/Lateiva)<br />- [Emergency Aid](https://github.com/Sanjith7146/Emergency_Aid)<br />- [Quiz App](https://github.com/Sanjith7146/Quiz_App)<br />- [Jokes](https://github.com/Sanjith7146/Jokes) | - [Unbored](https://github.com/Sanjith7146/Random-Project)<br />- [Shiritori Word Game](https://github.com/Sanjith7146/-Shiritori-word-game)<br />- [Singapore/India Flag](https://github.com/Sanjith7146/SG-IND-FLAG)<br /> | The Source Code for my [Personal Website](hisanjith.com) |
 
 <br />
 
