@@ -29,9 +29,9 @@
 
 ## Projects
 
-| iOS Apps | Python | [Personal Website](https://www.hisanjith.com)
+| iOS Apps | Python | [Personal Website](https://www.sanjith.net)
 | :--- | :--- | :--- |
-| - [Lateiva](https://github.com/Sanjith7146/Lateiva)<br />- [Emergency Aid](https://github.com/Sanjith7146/Emergency_Aid)<br />- [Jokes](https://github.com/Sanjith7146/Jokes)<br />- [Tamiliva](https://github.com/Sanjith7146/Tamiliva) | - [Unbored](https://github.com/Sanjith7146/Random-Project)<br />- [Shiritori Word Game](https://github.com/Sanjith7146/-Shiritori-word-game)<br />- [Singapore/India Flag](https://github.com/Sanjith7146/SG-IND-FLAG)<br /> | The [Source Code](https://github.com/Sanjith7146/Personal_Website) |
+| - [Lateiva](https://github.com/Sanjith7146/Lateiva)<br />- [Emergency Aid](https://github.com/Sanjith7146/Emergency_Aid)<br />- [Jokes](https://github.com/Sanjith7146/Jokes)<br />- [Tamiliva](https://github.com/Sanjith7146/Tamiliva) | - [Unbored](https://github.com/Sanjith7146/Random-Project)<br />- [Shiritori Word Game](https://github.com/Sanjith7146/-Shiritori-word-game)<br />- [Singapore/India Flag](https://github.com/Sanjith7146/SG-IND-FLAG)<br /> | The [Source Code](https://github.com/Sanjith7146/sanjith7146.github.io) |
 
 <br />
 
